@@ -1,1 +1,1 @@
-my remote was added
+This file is mandatory in projects
